@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{5CEEB364-625B-432B-9300-7A2EFBC90032}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/MoveCommand.cs">
+    <Files>
+      <File FileName="SwinAdventure/Program.cs" />
+      <File FileName="SwinAdventure/IdentifiableObject.cs" />
+      <File FileName="IdentifiableObjectTest/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/Inventory.cs" />
+      <File FileName="SwinAdventure/IHaveInventory.cs" />
+      <File FileName="SwinAdventure/GameObject.cs" />
+      <File FileName="SwinAdventure/Player.cs" />
+      <File FileName="SwinAdventure/LookCommand.cs" />
+      <File FileName="SwinAdventure/Item.cs" />
+      <File FileName="SwinAdventure/Bags.cs" />
+      <File FileName="SwinAdventure/Location.cs" Line="58" Column="5" />
+      <File FileName="IdentifiableObjectTest/Usings.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/MoveCommand.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="IdentifiableObjectTest" expanded="True" />
+            <Node name="SwinAdventure" expanded="True">
+              <Node name="MoveCommand.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

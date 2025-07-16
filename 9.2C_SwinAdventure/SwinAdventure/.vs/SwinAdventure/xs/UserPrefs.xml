@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{2675CF7B-771D-4C9B-BE73-CFA407CDEC46}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Path.cs">
+    <Files>
+      <File FileName="IdentifiableObject.cs" Line="12" Column="1" />
+      <File FileName="Program.cs" Line="93" Column="22" />
+      <File FileName="GameObject.cs" Line="14" Column="1" />
+      <File FileName="Player.cs" Line="24" Column="5" />
+      <File FileName="Item.cs" Line="9" Column="1" />
+      <File FileName="Inventory.cs" Line="25" Column="1" />
+      <File FileName="../UnitTests/Usings.cs" />
+      <File FileName="../UnitTests/InventoryUnitTests.cs" />
+      <File FileName="../UnitTests/PlayerUnitTests.cs" />
+      <File FileName="Bags.cs" Line="38" Column="35" />
+      <File FileName="../UnitTests/ItemUnitTests.cs" />
+      <File FileName="Command.cs" Line="9" Column="1" />
+      <File FileName="LookCommand.cs" Line="64" Column="1" />
+      <File FileName="IHaveInventory.cs" Line="16" Column="1" />
+      <File FileName="Location.cs" Line="16" Column="4" />
+      <File FileName="../UnitTests/LookCommandUnitTests.cs" Line="27" Column="11" />
+      <File FileName="../UnitTests/LocationUnitTest.cs" Line="4" Column="1" />
+      <File FileName="MoveCommand.cs" Line="26" Column="14" />
+      <File FileName="Path.cs" Line="41" Column="10" />
+      <File FileName="../UnitTests/MoveCommandUnitTest.cs" Line="36" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="SwinAdventure" expanded="True">
+              <Node name="Path.cs" selected="True" />
+            </Node>
+            <Node name="UnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

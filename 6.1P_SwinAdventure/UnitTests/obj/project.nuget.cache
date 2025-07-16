@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ACl5KdqqwxmTVrdLZH7RfneVYdvcSFpfQOB1CX2Yx4ovvvdxkH/VH6SyJCTc6hjz+3orOAFHegIZKXKuFfrkQ==",
+  "success": true,
+  "projectFilePath": "/Users/zara/Documents/Swinburne/Semester 2 2024/Object-Oriented Programming (OOP)/Report/Appendix IV/6.1P_SwinAdventure/UnitTests/UnitTests.csproj",
+  "expectedPackageFiles": [
+    "/Users/zara/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
+    "/Users/zara/.nuget/packages/microsoft.codecoverage/17.11.0/microsoft.codecoverage.17.11.0.nupkg.sha512",
+    "/Users/zara/.nuget/packages/microsoft.net.test.sdk/17.11.0/microsoft.net.test.sdk.17.11.0.nupkg.sha512",
+    "/Users/zara/.nuget/packages/microsoft.testplatform.objectmodel/17.11.0/microsoft.testplatform.objectmodel.17.11.0.nupkg.sha512",
+    "/Users/zara/.nuget/packages/microsoft.testplatform.testhost/17.11.0/microsoft.testplatform.testhost.17.11.0.nupkg.sha512",
+    "/Users/zara/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/zara/.nuget/packages/nunit/4.2.2/nunit.4.2.2.nupkg.sha512",
+    "/Users/zara/.nuget/packages/nunit.analyzers/4.3.0/nunit.analyzers.4.3.0.nupkg.sha512",
+    "/Users/zara/.nuget/packages/nunit3testadapter/4.6.0/nunit3testadapter.4.6.0.nupkg.sha512",
+    "/Users/zara/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

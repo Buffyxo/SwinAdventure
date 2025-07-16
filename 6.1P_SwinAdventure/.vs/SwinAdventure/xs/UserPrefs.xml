@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{5CEEB364-625B-432B-9300-7A2EFBC90032}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventure/IHaveInventory.cs">
+    <Files>
+      <File FileName="SwinAdventure/Program.cs" />
+      <File FileName="SwinAdventure/IdentifiableObject.cs" />
+      <File FileName="IdentifiableObjectTest/UnitTest1.cs" />
+      <File FileName="SwinAdventure/Inventory.cs" />
+      <File FileName="SwinAdventure/IHaveInventory.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/GameObject.cs" />
+      <File FileName="SwinAdventure/Player.cs" />
+      <File FileName="SwinAdventure/LookCommand.cs" Line="51" Column="14" />
+      <File FileName="SwinAdventure/Item.cs" />
+      <File FileName="SwinAdventure/Bags.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="IdentifiableObjectTest" expanded="True" />
+            <Node name="SwinAdventure" expanded="True">
+              <Node name="IHaveInventory.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
